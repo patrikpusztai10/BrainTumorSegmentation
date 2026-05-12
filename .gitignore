@@ -1,2 +1,2 @@
 unet_model.pkl
-swin_unetr_savedmodel/
+swin_unetr_weights.weights.h5
